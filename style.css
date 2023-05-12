@@ -1,0 +1,15 @@
+.heading{
+    font-size: 100px;
+    font-family: 'Bruno Ace', cursive;
+    color: aqua;
+}
+
+body{
+    background-color: mediumspringgreen
+}
+
+#camera{
+    width: 450px;
+    height: 500px;
+    border: 5px solid yellow ;
+}
